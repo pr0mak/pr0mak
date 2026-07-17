@@ -38,11 +38,8 @@
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VHDL_Logo.svg/512px-VHDL_Logo.svg.png"
-       alt="VHDL"
-       width="40"
-       height="40">
-</a>
+    <img src="https://cdn.simpleicons.org/vhdl" alt="VHDL" width="40" height="40">
+  </a>
   <a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" alt="mips32" width="40" height="40"/>
   </a>
