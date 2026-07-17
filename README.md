@@ -43,6 +43,10 @@
   <a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" alt="mips32" width="40" height="40"/>
   </a>
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/overleaf" alt="Overleaf" width="40" height="40"/>
+  </a>
   <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/2083/2083213.png" alt="rnn-cnn" width="40" height="40"/>
   </a>
