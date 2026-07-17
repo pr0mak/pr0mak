@@ -38,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/vhdl" alt="VHDL" width="40" height="40">
+    <img src="https://play-lh.googleusercontent.com/UaBv4SI7WG9t6vEy4nRw0-kdCRQgnKEX_IDIMszsoyWfnKAQ3HCXzJ-toyr7onPq4Dfpsq9fNeUJEpWiJ6ebVg" alt="VHDL" width="40" height="40">
   </a>
   <a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" alt="mips32" width="40" height="40"/>
