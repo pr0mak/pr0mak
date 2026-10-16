@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I’m Prodromos!</h1>
 
-20-year-old, Computer Science student at the [AUEB](https://www.aueb.gr) , with Erasmus+ academic experience at [Eindhoven University of Technology](https://www.tue.nl/en/). Passionate about software development, web & mobile applications, and cybersecurity, with a growing interest in AI and Machine Learning.
+21-year-old, Computer Science student at the [AUEB](https://www.aueb.gr) , with Erasmus+ academic experience at [Eindhoven University of Technology](https://www.tue.nl/en/). Passionate about software development, web & mobile applications, and cybersecurity, with a growing interest in AI and Machine Learning.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
